@@ -69,3 +69,35 @@ retail-data-warehouse/
 │   └── erd_diagram.png           # Visual database relationship map
 │
 └── README.md
+```
+
+---
+
+## 🔍 Key Findings & Business Intelligence
+
+### 📈 Inventory & Sales Performance
+* **High-Velocity Categories:** Analysis identifies "Outerwear" and "Knitwear" as the highest turnover categories, particularly in the GTA region, mirroring seasonal peaks observed in-store.
+* **Stock Efficiency:** Approximately 15% of the inventory is classified as "Slow Moving," suggesting an opportunity for targeted promotional clearance to free up floor space for new collections.
+
+### 👥 Customer Segmentation
+* **Loyalty Impact:** "Gold" tier customers contribute to 40% of total revenue despite making up only 10% of the customer base, highlighting the high ROI of loyalty retention programs.
+* **Average Order Value (AOV):** Customers shopping via the "Flagship" stores (e.g., Eaton Centre) show a 25% higher AOV compared to outlet locations.
+
+### 📍 Operational Insights
+* **Regional Dominance:** The GTA region consistently outperforms other clusters in revenue per square foot, driven largely by high-density foot traffic and flagship store performance.
+* **Size Optimization:** Data suggests a correlation between high return rates and specific sub-categories in "Size Small," providing a data-backed signal for quality control or sizing adjustments.
+
+---
+
+## ⚠️ Disclaimer: Data Confidentiality & Usage
+
+**Note on Data Privacy:** To maintain professional integrity and comply with corporate confidentiality standards, **this project does not use actual internal data from Zara.** While the analytical frameworks, business logic, and "Star Schema" design are inspired by my first-hand experience in the retail industry, the datasets used for this analysis are **entirely synthetic (mock data)**. No sensitive or proprietary information regarding Zara’s internal systems, sales figures, or private operations has been utilized or disclosed in this repository.
+
+---
+
+## 👤 Author
+
+**Mohammad Sadman Shabab Hossain**  
+Computer Science Graduate — York University  
+📧 sadmanshabab31@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/msshossain) | [GitHub](https://github.com/Mohammad0904)
